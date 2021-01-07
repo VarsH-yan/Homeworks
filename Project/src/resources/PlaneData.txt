@@ -1,0 +1,5 @@
+Boeing 787, Armenia, 1998, 200, 1000, 11, 560, 200, 45.5, false
+Cirrus SR22, France, 1990, 35, 2500, 35, 800, 45, 95.6, true
+Lockheed C-130, Italy, 2000, 5, 3800, 22, 950, 190, 256.7, true
+Cessna 172, USA, 2000, 14, 80952, 19, 290, 90, 528.9, false
+Learjet 23, Armenia, 2000, 5, 3800, 22, 950, 190, 95.8, true
